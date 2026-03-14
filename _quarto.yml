@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - publications.qmd
+    - projects.qmd
+    - contact.qmd
 
 website:
   title: "Siyu Chen (陈思羽)"
