@@ -60,9 +60,12 @@
   color: black !important;
 }
 
-/* Rounded images */
-.roundedimg {
-  border-radius: 50%;
+/* Profile photo styling */
+.roundedimg,
+img[alt="SiyuChen (陈思羽)"] {
+  border-radius: 50% !important;
+  width: 200px !important;
+  height: auto !important;
 }
 
 /* Centered content */

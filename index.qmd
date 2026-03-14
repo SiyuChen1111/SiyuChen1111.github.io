@@ -6,10 +6,9 @@ format:
 ---
 
 <!-- Profile Photo -->
-<center>
-<img src="images/789041ae07622e73d15aae53bda81441.JPG" alt="SiyuChen (陈思羽)" class="roundedimg" width="200px"/>
-</center>
-<br>
+<div style="text-align: center; margin-bottom: 20px;">
+<img src="images/789041ae07622e73d15aae53bda81441.JPG" alt="SiyuChen (陈思羽)" style="border-radius: 50%; width: 200px;"/>
+</div>
 
 ## About Me
 
