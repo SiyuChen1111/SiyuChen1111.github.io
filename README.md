@@ -2,6 +2,8 @@
 
 This is a personal academic website built with [Quarto](https://quarto.org/) and hosted on GitHub Pages.
 
+**Website URL:** https://siyuchen1111.github.io
+
 ## Website Structure
 
 ```
@@ -13,83 +15,99 @@ This is a personal academic website built with [Quarto](https://quarto.org/) and
 ├── projects.qmd         # Research projects
 ├── contact.qmd          # Contact information
 ├── images/              # Profile photos and other images
-└── docs/                # Generated website (auto-created)
+├── files/               # CV and other documents
+│   └── CV_SiyuChen_v3.pdf
+└── .github/
+    └── workflows/
+        └── publish.yml  # GitHub Actions for auto-deployment
 ```
 
-## Setup Instructions
+## 🚀 Auto-Deployment (GitHub Actions)
+
+This website is automatically built and deployed using GitHub Actions. Every time you push changes to the `main` branch, the website will be automatically rebuilt and updated.
+
+### How it works:
+1. You edit the `.qmd` files locally
+2. Push changes to GitHub: `git push origin main`
+3. GitHub Actions automatically:
+   - Sets up Quarto
+   - Renders the website
+   - Deploys to GitHub Pages
+
+## 📝 Updating Your Website
+
+### Step 1: Edit Content
+Edit the relevant `.qmd` files with your updates:
+- `index.qmd` - Home page / About Me
+- `publications.qmd` - Publications
+- `projects.qmd` - Research projects
+- `contact.qmd` - Contact information
+
+### Step 2: Push to GitHub
+```bash
+git add .
+git commit -m "Update website content"
+git push origin main
+```
+
+### Step 3: Wait for Deployment
+- Go to https://github.com/SiyuChen1111/SiyuChen1111.github.io/actions
+- Watch the workflow run (takes ~2-3 minutes)
+- Your website will be updated automatically!
+
+## 🛠️ Manual Build (Optional)
+
+If you want to build locally:
 
 ### 1. Install Quarto
+Download from: https://quarto.org/docs/get-started/
 
-Download and install Quarto from: https://quarto.org/docs/get-started/
-
-### 2. Customize Your Content
-
-Edit the following files with your actual information:
-
-- **`_quarto.yml`**: Update the website title with your name
-- **`index.qmd`**: Fill in your bio, education, research experience, and skills
-- **`publications.qmd`**: Add your publications
-- **`projects.qmd`**: Describe your research projects
-- **`contact.qmd`**: Add your contact information and links
-
-### 3. Add Your Photo (Optional)
-
-Place your profile photo in the `images/` folder and update `index.qmd`:
-
-```markdown
-<center>
-<img src="images/profile.jpg" alt="Your Name" class="roundedimg" width="200px"/>
-</center>
-```
-
-### 4. Build the Website
-
-Run the following command in the terminal:
-
+### 2. Build the Website
 ```bash
 quarto render
 ```
 
-This will generate the website in the `docs/` folder.
+### 3. Preview Locally
+```bash
+quarto preview
+```
 
-### 5. Deploy to GitHub Pages
+## 📋 Important Notes
 
-1. Push all files to your GitHub repository
-2. Go to repository Settings → Pages
-3. Set Source to "Deploy from a branch"
-4. Select "main" branch and "/docs" folder
-5. Click Save
+### CV File
+Make sure to upload your CV to the `files/` folder:
+```bash
+cp /path/to/CV_SiyuChen_v3.pdf files/
+git add files/
+git commit -m "Add CV"
+git push origin main
+```
 
-Your website will be available at: `https://siyuchen1111.github.io`
+### Profile Photo (Optional)
+To add a profile photo:
+1. Place your photo in `images/profile.jpg` (or .png)
+2. Uncomment the photo section in `index.qmd`
 
-## Updating Your Website
-
-To update content:
-1. Edit the relevant `.qmd` files
-2. Run `quarto render` to rebuild
-3. Push changes to GitHub
-
-## Customization
-
-### Changing Colors
-
-Edit `styles.css` to modify the sidebar color or other styles:
-
+### Customization
+Edit `styles.css` to change colors or styles:
 ```css
 .sidebar.sidebar-navigation {
-  background-color: #668ABE !important;  /* Change this color */
+  background-color: #668ABE !important;  /* Change sidebar color */
 }
 ```
 
-### Adding New Pages
+## 🔧 GitHub Pages Settings
 
-1. Create a new `.qmd` file
-2. Add it to `_quarto.yml` in the sidebar contents section
+The website uses GitHub Actions for deployment. Make sure your repository settings are:
 
-## References
+1. Go to Settings → Pages
+2. Source: "GitHub Actions"
+3. (Not "Deploy from a branch" - we use Actions instead)
+
+## 📚 References
 
 This website is based on the structure of [poldracklab.github.io](https://poldracklab.github.io).
 
-## License
+## 📄 License
 
 [Add your preferred license]

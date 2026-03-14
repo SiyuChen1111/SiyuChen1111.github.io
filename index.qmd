@@ -5,13 +5,11 @@ format:
     page-layout: article
 ---
 
-<!-- Profile Photo (Optional) -->
-<!-- 
+<!-- Profile Photo -->
 <center>
-<img src="images/profile.jpg" alt="CHEN Siyu" class="roundedimg" width="200px"/>
+<img src="images/789041ae07622e73d15aae53bda81441.JPG" alt="SiyuChen (陈思羽)" class="roundedimg" width="200px"/>
 </center>
 <br>
--->
 
 ## About Me
 
@@ -34,4 +32,4 @@ Feel free to take a look around and contact me if you have any thoughts or find 
 
 ---
 
-*Last updated: March 2025*
+*Last updated: March 2026*
