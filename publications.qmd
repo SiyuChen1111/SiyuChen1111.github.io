@@ -1,5 +1,8 @@
 ---
 title: "Publications"
+format:
+  html:
+    page-layout: full
 ---
 
 ## Peer-Reviewed Publications

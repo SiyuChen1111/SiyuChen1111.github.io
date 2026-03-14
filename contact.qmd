@@ -1,5 +1,8 @@
 ---
 title: "Contact"
+format:
+  html:
+    page-layout: full
 ---
 
 ## Get in Touch

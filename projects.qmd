@@ -1,5 +1,8 @@
 ---
 title: "Research Projects"
+format:
+  html:
+    page-layout: full
 ---
 
 ## Ongoing Projects
@@ -28,6 +31,20 @@ This project aims to build a neural network model incorporating cognitive proces
 
 **Collaborators:**
 - PI: [Hu Chuan-Peng](https://huchuanpeng.com/), School of Psychology, Nanjing Normal University
+
+---
+
+## Research Interests
+
+I am broadly interested in:
+
+- **Cognitive Computational Modeling:** Developing and fitting computational models to understand cognitive processes such as decision-making, learning, and memory.
+
+- **Artificial Neural Networks:** Using deep learning approaches to model human behavior and neural data, particularly in perceptual decision-making tasks.
+
+- **Perceptual Decision-Making:** Understanding how humans integrate sensory information to make decisions, and how factors like uncertainty and prior knowledge influence these decisions.
+
+- **Open Science:** Promoting transparent, reproducible, and inclusive research practices through preprints, open data, and open source software.
 
 ---
 
