@@ -1,0 +1,50 @@
+---
+title: "Contact"
+format:
+  html:
+    page-layout: article
+---
+
+## Get in Touch
+
+I am always interested in discussing research opportunities, collaborations, or answering questions about my work. Feel free to reach out!
+
+### Curriculum Vitae
+
+📄 **[Download My CV](files/CV_SiyuChen_v3.pdf)**
+
+### Email
+
+📧 **Primary:** [csiyu869@gmail.com](mailto:csiyu869@gmail.com)  
+📧 **Secondary:** [26230324@njnu.edu.cn](mailto:26230324@njnu.edu.cn)
+
+---
+
+## Online Profiles
+
+### Academic Profiles
+
+- **Google Scholar:** [CHEN Siyu](https://scholar.google.com/citations?user=05zqMBsAAAAJ&hl=en)
+- **ORCID:** [0009-0007-3631-9389](https://orcid.org/0009-0007-3631-9389)
+- **ResearchGate:** [Siyu Chen](https://www.researchgate.net/profile/Siyu-Chen-210?ev=hdr_xprf)
+
+### Code & Data
+
+- **GitHub:** [@SiyuChen1111](https://github.com/SiyuChen1111)
+
+---
+
+## For Prospective Collaborators
+
+I am currently seeking PhD opportunities in cognitive neuroscience and computational psychology. If you are a potential advisor or collaborator interested in:
+
+- Cognitive computational modeling
+- Neural network approaches to understanding cognition
+- Perceptual decision-making
+- Open science and reproducible research
+
+Please don't hesitate to contact me. I would love to discuss potential research opportunities.
+
+---
+
+*Last updated: March 2026*

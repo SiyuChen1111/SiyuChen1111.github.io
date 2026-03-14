@@ -1,0 +1,37 @@
+---
+title: "Research Projects"
+format:
+  html:
+    page-layout: article
+---
+
+## Ongoing Projects
+
+### Project: A Cognitive Mechanism Exploring of Fast-Same Effect
+
+**Status:** Ongoing (2024 - 2026)
+
+**Description:**
+This project aims to build a neural network model incorporating cognitive processes to simulate the fast-same effect in matching tasks and explore its underlying cognitive mechanisms. The fast-same effect refers to the phenomenon where participants respond faster to "same" trials compared to "different" trials in matching tasks. By developing an artificial neural network model based on decision-making processes, we seek to better understand the cognitive mechanisms driving this effect.
+
+**My Role:**
+- Designing and implementing neural network architectures for simulating the fast-same effect
+- Training and validating models against human behavioral data from matching tasks
+- Analyzing model performance and interpreting results to uncover cognitive mechanisms
+
+**Methods & Tools Used:**
+- Python (PyTorch)
+- Artificial Neural Networks
+- Evidence Accumulation Models
+- Computational Modeling
+- Behavioral Data Analysis
+
+**Outcomes:**
+- Resulting paper currently in preparation
+
+**Collaborators:**
+- PI: [Hu Chuan-Peng](https://huchuanpeng.com/), School of Psychology, Nanjing Normal University
+
+---
+
+*Last updated: March 2026*

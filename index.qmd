@@ -1,0 +1,37 @@
+---
+title: "SiyuChen (陈思羽)"
+format:
+  html:
+    page-layout: article
+---
+
+<!-- Profile Photo (Optional) -->
+<!-- 
+<center>
+<img src="images/profile.jpg" alt="CHEN Siyu" class="roundedimg" width="200px"/>
+</center>
+<br>
+-->
+
+## About Me
+
+Hi, my friend! I'm glad you found your way to my website!
+
+I'm Siyu Chen, an undergraduate student in Psychology at Nanjing Normal University. I am currently working in the [Meta-Self Lab](https://huchuanpeng.com/) under the supervision of [Hu Chuan-Peng](https://huchuanpeng.com/). My interests mainly focus on Artificial Intelligence for Psychology during this phase. Specifically, I'm doing some research explorations of Computational Modeling based on Artificial Neural Networks, to train a model behaving like a human (which is super fun, isn't it?), trying to uncover the cognitive mechanism of decision-making processes. Besides, I'm also fond of music and shooting photos, fascinated by philosophy, and have passion for exploring the ground truth of this world. Exercising like boxing, climbing and running are in my daily life as well.
+
+I try to do research in a way that is transparent, reproducible, and inclusive. This may include things like publishing preprints, sharing data and code, and contributing to open source software development.
+
+Feel free to take a look around and contact me if you have any thoughts or find any errors, hopefully we can make something great together!
+
+📄 **[Download My CV](files/CV_SiyuChen_v3.pdf)**
+
+## Research Interests
+
+- Artificial Intelligence for psychology
+- Computational modeling
+- Artificial neural networks
+- Decision-making
+
+---
+
+*Last updated: March 2025*
