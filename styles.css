@@ -1,37 +1,48 @@
 /* css styles */
 
 /* Sidebar styling with #394955 background */
-.sidebar.sidebar-navigation {
+.sidebar,
+.sidebar-navigation,
+.sidebar.sidebar-navigation,
+#quarto-sidebar,
+.quarto-sidebar {
   background-color: #394955 !important;
 }
 
 /* Sidebar text color - white for contrast */
-.sidebar.sidebar-navigation .sidebar-item a,
-.sidebar.sidebar-navigation .sidebar-item .text,
-.sidebar.sidebar-navigation .sidebar-title {
+.sidebar .sidebar-item a,
+.sidebar .nav-link,
+.sidebar-navigation .sidebar-item a,
+.sidebar-navigation .nav-link,
+.sidebar .sidebar-title,
+.sidebar-navigation .sidebar-title {
   color: white !important;
 }
 
 /* Sidebar hover effects */
-.sidebar.sidebar-navigation .sidebar-item a:hover {
+.sidebar .sidebar-item a:hover,
+.sidebar-navigation .sidebar-item a:hover {
   background-color: rgba(255, 255, 255, 0.1) !important;
   color: white !important;
 }
 
 /* Active/current page highlight */
-.sidebar.sidebar-navigation .sidebar-item.active a {
+.sidebar .sidebar-item.active a,
+.sidebar-navigation .sidebar-item.active a {
   background-color: rgba(255, 255, 255, 0.2) !important;
   color: white !important;
 }
 
 /* Search box styling */
-.sidebar.sidebar-navigation .sidebar-search-input {
+.sidebar .sidebar-search-input,
+.sidebar-navigation .sidebar-search-input {
   background-color: rgba(255, 255, 255, 0.1) !important;
   border: 1px solid rgba(255, 255, 255, 0.3) !important;
   color: white !important;
 }
 
-.sidebar.sidebar-navigation .sidebar-search-input::placeholder {
+.sidebar .sidebar-search-input::placeholder,
+.sidebar-navigation .sidebar-search-input::placeholder {
   color: rgba(255, 255, 255, 0.7) !important;
 }
 

@@ -6,7 +6,7 @@ format:
 ---
 
 <center>
-<img src="images/789041ae07622e73d15aae53bda81441.JPG" alt="Siyu Chen" width="200px"/>
+<img src="images/789041ae07622e73d15aae53bda81441.JPG" alt="Siyu Chen" width="450px"/>
 </center>
 
 
