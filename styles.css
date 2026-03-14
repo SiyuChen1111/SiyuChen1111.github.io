@@ -1,5 +1,49 @@
 /* css styles */
 
+/* Sidebar styling with #394955 background */
+.sidebar.sidebar-navigation {
+  background-color: #394955 !important;
+}
+
+/* Sidebar text color - white for contrast */
+.sidebar.sidebar-navigation .sidebar-item a,
+.sidebar.sidebar-navigation .sidebar-item .text,
+.sidebar.sidebar-navigation .sidebar-title {
+  color: white !important;
+}
+
+/* Sidebar hover effects */
+.sidebar.sidebar-navigation .sidebar-item a:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: white !important;
+}
+
+/* Active/current page highlight */
+.sidebar.sidebar-navigation .sidebar-item.active a {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  color: white !important;
+}
+
+/* Search box styling */
+.sidebar.sidebar-navigation .sidebar-search-input {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  color: white !important;
+}
+
+.sidebar.sidebar-navigation .sidebar-search-input::placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* Links in main content */
+.content a {
+  color: #394955 !important;
+}
+
+.content a:hover {
+  color: #2c3842 !important;
+}
+
 .roundedimg {
     border-radius: 80%;
   }
