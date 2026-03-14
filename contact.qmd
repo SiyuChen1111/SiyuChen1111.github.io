@@ -34,17 +34,5 @@ I am always interested in discussing research opportunities, collaborations, or 
 
 ---
 
-## For Prospective Collaborators
-
-I am currently seeking PhD opportunities in cognitive neuroscience and computational psychology. If you are a potential advisor or collaborator interested in:
-
-- Cognitive computational modeling
-- Neural network approaches to understanding cognition
-- Perceptual decision-making
-- Open science and reproducible research
-
-Please don't hesitate to contact me. I would love to discuss potential research opportunities.
-
----
 
 *Last updated: March 2026*

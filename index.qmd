@@ -9,18 +9,13 @@ format:
 <img src="images/789041ae07622e73d15aae53bda81441.JPG" alt="Siyu Chen" class="roundedimg" width="200px"/>
 </center>
 
-<br>
 
-<center>
-**Undergraduate Student in Psychology**<br>
-Nanjing Normal University
-</center>
 
 <br>
 
 Hi, my friend! I'm glad you found your way to my website!
 
-I'm Siyu Chen, an undergraduate student in Psychology at Nanjing Normal University. I am currently working in the [Meta-Self Lab](https://huchuanpeng.com/) under the supervision of [Hu Chuan-Peng](https://huchuanpeng.com/). My interests mainly focus on Artificial Intelligence for Psychology during this phase. Specifically, I'm doing some research explorations of Computational Modeling based on Artificial Neural Networks, to train a model behaving like a human (which is super fun, isn't it?), trying to uncover the cognitive mechanism of decision-making processes. Besides, I'm also fond of music and shooting photos, fascinated by philosophy, and have passion for exploring the ground truth of this world. Exercising like boxing, climbing and running are in my daily life as well.
+I'm Siyu Chen, an undergraduate student in Psychology， currently working in the [Meta-Self Lab](https://huchuanpeng.com/) under the supervision of [Hu Chuan-Peng](https://huchuanpeng.com/). My interests mainly focus on Artificial Intelligence for Psychology during this phase. Specifically, I'm doing some research explorations of Computational Modeling based on Artificial Neural Networks, to train a model behaving like a human (which is super fun, isn't it?), trying to uncover the cognitive mechanism of decision-making processes. Besides, I'm also fond of music and shooting photos, fascinated by philosophy, and have passion for exploring the ground truth of this world. Exercising like boxing, climbing and running are in my daily life as well.
 
 I try to do research in a way that is transparent, reproducible, and inclusive. This may include things like publishing preprints, sharing data and code, and contributing to open source software development.
 
