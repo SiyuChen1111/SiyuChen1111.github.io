@@ -1,8 +1,5 @@
 ---
 title: "SiyuChen (陈思羽)"
-format:
-  html:
-    page-layout: article
 ---
 
 <!-- Profile Photo -->

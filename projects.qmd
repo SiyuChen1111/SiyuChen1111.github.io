@@ -1,8 +1,5 @@
 ---
 title: "Research Projects"
-format:
-  html:
-    page-layout: article
 ---
 
 ## Ongoing Projects
