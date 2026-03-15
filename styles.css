@@ -1,48 +1,43 @@
 /* css styles */
 
-/* Sidebar styling with #394955 background */
-.sidebar,
-.sidebar-navigation,
-.sidebar.sidebar-navigation,
-#quarto-sidebar,
-.quarto-sidebar {
+/* Navbar styling with #394955 background */
+.navbar {
   background-color: #394955 !important;
 }
 
-/* Sidebar text color - white for contrast */
-.sidebar .sidebar-item a,
-.sidebar .nav-link,
-.sidebar-navigation .sidebar-item a,
-.sidebar-navigation .nav-link,
-.sidebar .sidebar-title,
-.sidebar-navigation .sidebar-title {
+/* Navbar brand (name) styling */
+.navbar-brand {
   color: white !important;
+  font-weight: 500;
 }
 
-/* Sidebar hover effects */
-.sidebar .sidebar-item a:hover,
-.sidebar-navigation .sidebar-item a:hover {
-  background-color: rgba(255, 255, 255, 0.1) !important;
+/* Navbar text color - white for contrast */
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+/* Navbar hover effects */
+.navbar .nav-link:hover {
   color: white !important;
 }
 
 /* Active/current page highlight */
-.sidebar .sidebar-item.active a,
-.sidebar-navigation .sidebar-item.active a {
-  background-color: rgba(255, 255, 255, 0.2) !important;
+.navbar .nav-link.active {
   color: white !important;
+  font-weight: 500;
 }
 
-/* Search box styling */
-.sidebar .sidebar-search-input,
-.sidebar-navigation .sidebar-search-input {
+/* Search box in navbar */
+.navbar .aa-Autocomplete .aa-Form {
   background-color: rgba(255, 255, 255, 0.1) !important;
   border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.navbar .aa-Autocomplete .aa-Input {
   color: white !important;
 }
 
-.sidebar .sidebar-search-input::placeholder,
-.sidebar-navigation .sidebar-search-input::placeholder {
+.navbar .aa-Autocomplete .aa-Input::placeholder {
   color: rgba(255, 255, 255, 0.7) !important;
 }
 
