@@ -1,32 +1,5 @@
 /* css styles */
 
-/* Navbar styling with #394955 background */
-.navbar {
-  background-color: #394955 !important;
-}
-
-/* Navbar brand (name) styling */
-.navbar-brand {
-  color: white !important;
-  font-weight: 500;
-}
-
-/* Navbar text color - white for contrast */
-.navbar .nav-link {
-  color: rgba(255, 255, 255, 0.85) !important;
-}
-
-/* Navbar hover effects */
-.navbar .nav-link:hover {
-  color: white !important;
-}
-
-/* Active/current page highlight */
-.navbar .nav-link.active {
-  color: white !important;
-  font-weight: 500;
-}
-
 /* Links in main content */
 .content a {
   color: #394955 !important;
