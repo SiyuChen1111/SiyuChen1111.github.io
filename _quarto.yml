@@ -10,19 +10,6 @@ project:
 website:
   title: "Siyu Chen (陈思羽)"
   repo-url: https://github.com/SiyuChen1111/SiyuChen1111.github.io
-  navbar:
-    background: "#394955"
-    foreground: "white"
-    search: true
-    left:
-      - text: "Home"
-        file: index.qmd
-      - text: "Publications"
-        file: publications.qmd
-      - text: "Projects"
-        file: projects.qmd
-      - text: "Contact"
-        file: contact.qmd
 
 format:
   html:

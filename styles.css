@@ -1,46 +1,5 @@
 /* css styles */
 
-/* Navbar styling with #394955 background */
-.navbar {
-  background-color: #394955 !important;
-}
-
-/* Navbar brand (name) styling */
-.navbar-brand {
-  color: white !important;
-  font-weight: 500;
-}
-
-/* Navbar text color - white for contrast */
-.navbar .nav-link {
-  color: rgba(255, 255, 255, 0.85) !important;
-}
-
-/* Navbar hover effects */
-.navbar .nav-link:hover {
-  color: white !important;
-}
-
-/* Active/current page highlight */
-.navbar .nav-link.active {
-  color: white !important;
-  font-weight: 500;
-}
-
-/* Search box in navbar */
-.navbar .aa-Autocomplete .aa-Form {
-  background-color: rgba(255, 255, 255, 0.1) !important;
-  border: 1px solid rgba(255, 255, 255, 0.3) !important;
-}
-
-.navbar .aa-Autocomplete .aa-Input {
-  color: white !important;
-}
-
-.navbar .aa-Autocomplete .aa-Input::placeholder {
-  color: rgba(255, 255, 255, 0.7) !important;
-}
-
 /* Links in main content */
 .content a {
   color: #394955 !important;
