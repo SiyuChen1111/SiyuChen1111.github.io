@@ -5,11 +5,13 @@ format:
     page-layout: full
 ---
 
-## Ongoing Projects
+<h2 class="section-title">Ongoing Projects</h2>
 
-### Project: A Cognitive Mechanism Exploring of Fast-Same Effect
+<div class="project-card">
 
-**Status:** Ongoing (2024 - 2026)
+### A Cognitive Mechanism Exploring of Fast-Same Effect
+
+<span class="status-badge status-ongoing">Ongoing</span> 2024 - 2026
 
 **Description:**
 This project aims to build a neural network model incorporating cognitive processes to simulate the fast-same effect in matching tasks and explore its underlying cognitive mechanisms. The fast-same effect refers to the phenomenon where participants respond faster to "same" trials compared to "different" trials in matching tasks. By developing an artificial neural network model based on decision-making processes, we seek to better understand the cognitive mechanisms driving this effect.
@@ -32,9 +34,13 @@ This project aims to build a neural network model incorporating cognitive proces
 **Collaborators:**
 - PI: [Hu Chuan-Peng](https://huchuanpeng.com/), School of Psychology, Nanjing Normal University
 
+</div>
+
 ---
 
-## Research Interests
+<h2 class="section-title">Research Interests</h2>
+
+<div class="intro-section">
 
 I am broadly interested in:
 
@@ -46,6 +52,6 @@ I am broadly interested in:
 
 - **Open Science:** Promoting transparent, reproducible, and inclusive research practices through preprints, open data, and open source software.
 
----
+</div>
 
-*Last updated: March 2026*
+<p class="page-footer"><em>Last updated: March 2026</em></p>

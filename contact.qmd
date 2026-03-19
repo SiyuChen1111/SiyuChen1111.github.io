@@ -5,34 +5,59 @@ format:
     page-layout: full
 ---
 
-## Get in Touch
+<h2 class="section-title">Get in Touch</h2>
 
+<div class="intro-section">
 I am always interested in discussing research opportunities, collaborations, or answering questions about my work. Feel free to reach out!
+</div>
 
-### Curriculum Vitae
+### 📄 Curriculum Vitae
 
-📄 **[Download My CV](files/CV_SiyuChen_v3.pdf)**
+<div style="margin: 1rem 0;">
+  <a href="files/CV_SiyuChen_v3.pdf" class="cv-button">📄 Download My CV</a>
+</div>
 
-### Email
+### 📧 Email
 
-📧 **Primary:** [csiyu869@gmail.com](mailto:csiyu869@gmail.com)  
-📧 **Secondary:** [26230324@njnu.edu.cn](mailto:26230324@njnu.edu.cn)
-
----
-
-## Online Profiles
-
-### Academic Profiles
-
-- **Google Scholar:** [CHEN Siyu](https://scholar.google.com/citations?user=05zqMBsAAAAJ&hl=en)
-- **ORCID:** [0009-0007-3631-9389](https://orcid.org/0009-0007-3631-9389)
-- **ResearchGate:** [Siyu Chen](https://www.researchgate.net/profile/Siyu-Chen-210?ev=hdr_xprf)
-
-### Code & Data
-
-- **GitHub:** [@SiyuChen1111](https://github.com/SiyuChen1111)
+<div class="contact-links">
+  <a href="mailto:csiyu869@gmail.com" class="contact-link">
+    <span class="contact-icon">📧</span>
+    csiyu869@gmail.com
+  </a>
+  <a href="mailto:26230324@njnu.edu.cn" class="contact-link">
+    <span class="contact-icon">📧</span>
+    26230324@njnu.edu.cn
+  </a>
+</div>
 
 ---
 
+<h2 class="section-title">Online Profiles</h2>
 
-*Last updated: March 2026*
+### 🎓 Academic Profiles
+
+<div class="contact-links">
+  <a href="https://scholar.google.com/citations?user=05zqMBsAAAAJ&hl=en" class="contact-link" target="_blank">
+    <span class="contact-icon">📚</span>
+    Google Scholar
+  </a>
+  <a href="https://orcid.org/0009-0007-3631-9389" class="contact-link" target="_blank">
+    <span class="contact-icon">🆔</span>
+    ORCID
+  </a>
+  <a href="https://www.researchgate.net/profile/Siyu-Chen-210?ev=hdr_xprf" class="contact-link" target="_blank">
+    <span class="contact-icon">🔬</span>
+    ResearchGate
+  </a>
+</div>
+
+### 💻 Code & Data
+
+<div class="contact-links">
+  <a href="https://github.com/SiyuChen1111" class="contact-link" target="_blank">
+    <span class="contact-icon">🐙</span>
+    GitHub
+  </a>
+</div>
+
+<p class="page-footer"><em>Last updated: March 2026</em></p>
