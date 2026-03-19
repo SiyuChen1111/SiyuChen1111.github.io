@@ -5,39 +5,62 @@ format:
     page-layout: full
 ---
 
-<div class="profile-hero">
-  <div class="profile-photo-wrapper">
-    <img src="images/01.jpg" alt="Siyu Chen" class="profile-photo"/>
-  </div>
-  <div class="profile-info">
-    <h1 class="profile-name">Siyu Chen <span class="name-cn">陈思羽</span></h1>
-    <div class="profile-divider"></div>
-    <p class="profile-subtitle">Undergraduate Researcher in Psychology</p>
-    <p class="profile-affiliation"><a href="https://huchuanpeng.com/">Meta-Self Lab</a> · Nanjing Normal University</p>
-    <p class="profile-focus">Computational Modeling · Artificial Neural Networks · Cognitive Decision-Making</p>
-  </div>
-</div>
+::: {.profile-hero}
 
-<div class="nav-cards">
-  <a href="publications.html" class="nav-card">
-    <span class="nav-card-icon">📄</span>
-    <p class="nav-card-title">Publications</p>
-  </a>
-  <a href="projects.html" class="nav-card">
-    <span class="nav-card-icon">🔬</span>
-    <p class="nav-card-title">Projects</p>
-  </a>
-  <a href="contact.html" class="nav-card">
-    <span class="nav-card-icon">💬</span>
-    <p class="nav-card-title">Contact</p>
-  </a>
-</div>
+::: {.profile-photo-wrapper}
+![](images/01.jpg){.profile-photo alt="Siyu Chen"}
+:::
 
-<div style="text-align: center; margin: 1rem 0 2rem;">
-  <a href="files/CV_SiyuChen_v3.pdf" class="cv-button">📄 Download My CV</a>
-</div>
+::: {.profile-info}
 
-<div class="intro-section">
+Siyu Chen
+
+陈思羽
+
+::: {.profile-divider}
+:::
+
+Undergraduate Researcher in Psychology
+
+::: {.profile-affiliation}
+[Meta-Self Lab](https://huchuanpeng.com/) · Nanjing Normal University
+:::
+
+::: {.profile-focus}
+Computational Modeling · Artificial Neural Networks · Cognitive Decision-Making
+:::
+
+:::
+
+:::
+
+::: {.nav-cards}
+
+::: {.nav-card}
+[📄]{.nav-card-icon}
+
+[Publications](publications.html){.nav-card-link}
+:::
+
+::: {.nav-card}
+[🔬]{.nav-card-icon}
+
+[Projects](projects.html){.nav-card-link}
+:::
+
+::: {.nav-card}
+[💬]{.nav-card-icon}
+
+[Contact](contact.html){.nav-card-link}
+:::
+
+:::
+
+::: {style="text-align: center; margin: 1rem 0 2rem;"}
+[📄 Download My CV](files/CV_SiyuChen_v3.pdf){.cv-button}
+:::
+
+::: {.intro-section}
 
 Hi, my friend! I'm glad you found your way to my website!
 
@@ -47,6 +70,8 @@ I try to do research in a way that is transparent, reproducible, and inclusive. 
 
 Feel free to take a look around and contact me if you have any thoughts or find any errors, hopefully we can make something great together!
 
-</div>
+:::
 
-<p class="page-footer"><em>Last updated: March 2026</em></p>
+::: {.page-footer}
+*Last updated: March 2026*
+:::
