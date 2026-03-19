@@ -23,8 +23,8 @@
   --radius-lg: 12px;
   --radius-full: 50%;
   --transition: 0.2s ease;
-  --serif: Georgia, "Times New Roman", "Noto Serif SC", serif;
-  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", sans-serif;
+  --serif: "Philosopher", Georgia, "Times New Roman", "Noto Serif SC", serif;
+  --sans: "Philosopher", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", sans-serif;
 }
 
 /* ---------- Global Styles ---------- */
@@ -258,11 +258,13 @@ a.nav-card-link {
 }
 
 /* ---------- CV Button ---------- */
-.cv-button {
-  display: inline-flex;
+.cv-button,
+a.cv-button,
+.content a.cv-button {
+  display: inline-flex !important;
   align-items: center;
   gap: 0.5rem;
-  background: var(--primary);
+  background: var(--primary) !important;
   color: var(--white) !important;
   padding: 0.7rem 1.6rem;
   border-radius: var(--radius-sm);
@@ -274,8 +276,10 @@ a.nav-card-link {
   transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
 }
 
-.cv-button:hover {
-  background: var(--primary-dark);
+.cv-button:hover,
+a.cv-button:hover,
+.content a.cv-button:hover {
+  background: var(--primary-dark) !important;
   transform: translateY(-1px);
   box-shadow: var(--shadow-md);
   color: var(--white) !important;
