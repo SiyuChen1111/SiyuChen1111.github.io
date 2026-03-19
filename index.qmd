@@ -5,10 +5,17 @@ format:
     page-layout: full
 ---
 
-<div class="profile-container">
-  <img src="images/01.jpg" alt="Siyu Chen" class="profile-photo"/>
-  <h1 class="profile-name">Siyu Chen (陈思羽)</h1>
-  <p class="profile-subtitle">Undergraduate Researcher · <a href="https://huchuanpeng.com/">Meta-Self Lab</a></p>
+<div class="profile-hero">
+  <div class="profile-photo-wrapper">
+    <img src="images/01.jpg" alt="Siyu Chen" class="profile-photo"/>
+  </div>
+  <div class="profile-info">
+    <h1 class="profile-name">Siyu Chen <span class="name-cn">陈思羽</span></h1>
+    <div class="profile-divider"></div>
+    <p class="profile-subtitle">Undergraduate Researcher in Psychology</p>
+    <p class="profile-affiliation"><a href="https://huchuanpeng.com/">Meta-Self Lab</a> · Nanjing Normal University</p>
+    <p class="profile-focus">Computational Modeling · Artificial Neural Networks · Cognitive Decision-Making</p>
+  </div>
 </div>
 
 <div class="nav-cards">
