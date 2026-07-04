@@ -9,19 +9,91 @@ format:
 
 <div class="project-card">
 
-### A Cognitive Mechanism Exploring of Fast-Same Effect
+### Visual Evidence and Decision Dynamics in Human Reaction Time
 
-<span class="status-badge status-ongoing">Ongoing</span> 2024 - 2026
+<span class="status-badge status-ongoing">Ongoing</span> 2025 - Present
 
 **Description:**
-This project aims to build a neural network model incorporating cognitive processes to simulate the fast-same effect in matching tasks and explore its underlying cognitive mechanisms. The fast-same effect refers to the phenomenon where participants respond faster to "same" trials compared to "different" trials in matching tasks. By developing an artificial neural network model based on decision-making processes, we seek to better understand the cognitive mechanisms driving this effect.
+This project develops a computational framework linking visual evidence, conflict effects, and recurrent decision dynamics to explain human reaction-time patterns. Using the flanker task as a test case, the current work examines how age-related differences, stimulus-driven uncertainty, and time-varying evidence shape response speed and accuracy. The present model shows promising progress in capturing key behavioral structure, while ongoing work continues to refine the mechanism and improve its fit to full human data.
 
 **My Role:**
+
+- Designing and implementing hierarchical neural-network models for reaction-time behavior
+- Building analysis pipelines to compare model behavior with human flanker-task data across age groups
+- Interpreting internal model dynamics to study how visual evidence and conflict unfold over time
+
+**Methods & Tools Used:**
+
+- Python (PyTorch)
+- Convolutional Neural Networks
+- Recurrent Decision Dynamics
+- Computational Modeling
+- Behavioral Data Analysis
+
+**Outcomes:**
+
+- A mechanism-oriented model that reproduces several core reaction-time distribution patterns and guides ongoing model refinement
+
+**Collaborators:**
+
+- PI: [Hu Chuan-Peng](https://huchuanpeng.com/), School of Psychology, Nanjing Normal University
+
+</div>
+
+---
+
+<h2 class="section-title">Completed Projects</h2>
+
+<div class="project-card">
+
+### RNN Modeling and Neural Dynamics in the Face-Switch Task
+
+<span class="status-badge status-completed">Completed</span> 2026 Apr - Jun
+
+**Description:**
+This project investigated monkey neural population activity in a face-switch task to understand how neural representations support flexible decision-making. The analyses focused on population-state geometry, task arrangement, and choice-related dynamics, with the goal of clarifying whether switching behavior reflects stable representational structure, dynamic reconfiguration, or both. The project combined data analysis and RNN-oriented modeling to examine mechanism-level constraints on flexible decisions rather than static representations alone.
+
+**My Role:**
+
+- Analyzing neural population data from a face-switch decision-making task
+- Developing workflows to study trajectory geometry, switching-related structure, and choice dynamics
+- Integrating PCA, linear decoding, and FINDR-style modeling to interpret recurrent neural dynamics
+
+**Methods & Tools Used:**
+
+- Python
+- Principal Component Analysis
+- Linear Decoding and Classification
+- FINDR-Style Modeling
+- Neural Population Dynamics Analysis
+
+**Outcomes:**
+
+- Produced structured analysis reports, reusable figure-generation workflows, and a consolidated result package for studying neural dynamics and flexibility in the face-switch task
+
+**Collaborators:**
+
+- Gouki Okazawa, Institute of Neuroscience, Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences
+
+</div>
+
+<div class="project-card">
+
+### A Cognitive Mechanism Exploring of Fast-Same Effect
+
+<span class="status-badge status-completed">Completed</span> 2024 - 2026
+
+**Description:**
+This project built a neural network model incorporating cognitive processes to simulate the fast-same effect in matching tasks and explore its underlying cognitive mechanisms. The fast-same effect refers to the phenomenon in which participants respond faster to "same" trials than to "different" trials. By developing an artificial neural network model grounded in decision-making processes, the project aimed to better understand the mechanisms driving this effect.
+
+**My Role:**
+
 - Designing and implementing neural network architectures for simulating the fast-same effect
 - Training and validating models against human behavioral data from matching tasks
 - Analyzing model performance and interpreting results to uncover cognitive mechanisms
 
 **Methods & Tools Used:**
+
 - Python (PyTorch)
 - Artificial Neural Networks
 - Evidence Accumulation Models
@@ -29,9 +101,11 @@ This project aims to build a neural network model incorporating cognitive proces
 - Behavioral Data Analysis
 
 **Outcomes:**
+
 - Resulting paper currently in preparation
 
 **Collaborators:**
+
 - PI: [Hu Chuan-Peng](https://huchuanpeng.com/), School of Psychology, Nanjing Normal University
 
 </div>
@@ -44,14 +118,14 @@ This project aims to build a neural network model incorporating cognitive proces
 
 I am broadly interested in:
 
-- **Cognitive Computational Modeling:** Developing and fitting computational models to understand cognitive processes such as decision-making, learning, and memory.
+- **Cognitive Computational Modeling:** Developing computational models to understand decision-making, learning, and related cognitive processes.
 
-- **Artificial Neural Networks:** Using deep learning approaches to model human behavior and neural data, particularly in perceptual decision-making tasks.
+- **Artificial Neural Networks:** Using neural network approaches to study human behavior and neural data, especially in perceptual and speeded decision tasks.
 
-- **Perceptual Decision-Making:** Understanding how humans integrate sensory information to make decisions, and how factors like uncertainty and prior knowledge influence these decisions.
+- **Perceptual Decision-Making:** Investigating how sensory evidence, uncertainty, and prior structure shape behavior over time.
 
-- **Open Science:** Promoting transparent, reproducible, and inclusive research practices through preprints, open data, and open source software.
+- **Open Science:** Supporting transparent, reproducible, and accessible research through open data, open materials, and open-source tools.
 
 </div>
 
-<p class="page-footer"><em>Last updated: March 2026</em></p>
+<p class="page-footer"><em>Last updated: July 2026</em></p>
