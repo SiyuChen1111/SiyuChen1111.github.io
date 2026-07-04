@@ -51,6 +51,15 @@ I am always interested in discussing research opportunities, collaborations, or 
   </a>
 </div>
 
+### 🐦 Social Media
+
+<div class="contact-links">
+  <a href="https://x.com/csiyu1111" class="contact-link" target="_blank">
+    <span class="contact-icon">🐦</span>
+    X / Twitter
+  </a>
+</div>
+
 ### 💻 Code & Data
 
 <div class="contact-links">
@@ -60,4 +69,4 @@ I am always interested in discussing research opportunities, collaborations, or 
   </a>
 </div>
 
-<p class="page-footer"><em>Last updated: March 2026</em></p>
+<p class="page-footer"><em>Last updated: July 2026</em></p>
